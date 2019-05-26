@@ -1,0 +1,1 @@
+include ':app', ':customer_view', ':testdatabinding', ':test', ':xmpp', ':eventbustest', ':kanmeitu'
